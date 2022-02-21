@@ -3,7 +3,7 @@
 ## Usage:
 
 ```sh
-npx quizgame-cli [option]=[value] [option2]=[value2] ... [optionN]=[valueN]
+npx quizgame-cli [option]=[value] [option2]=[value2]...[optionN]=[valueN]
 ```
 Example: `npx quizgame-cli -c=sport -a=20 -d=medium`
 
