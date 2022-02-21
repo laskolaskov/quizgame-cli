@@ -40,4 +40,4 @@ Example: -c=sport, --category=math
 
 Incorrect options and values will not trigger errors and the default values will be used instead.
 
-Have a ==nice== game!
+Have a nice game!
