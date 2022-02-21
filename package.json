@@ -1,6 +1,6 @@
 {
   "name": "quizgame-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Lasko Laskov",
   "description": "CLI quiz game.",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "url": "https://github.com/laskolaskov/quizgame-cli"
   },
   "bin": "./index.js",
-  "keywords": [],
+  "keywords": ["game", "cli", "quiz", "trivia"],
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.0",

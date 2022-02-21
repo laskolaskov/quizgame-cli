@@ -5,7 +5,7 @@
 ```sh
 npx quizgame-cli [option]=[value] [option2]=[value2] ... [optionN]=[valueN]
 ```
-Example: npx quizgame-cli -c=sport -a=20 -d=medium
+Example: `npx quizgame-cli -c=sport -a=20 -d=medium`
 
 ## Options:
 
@@ -20,21 +20,21 @@ Shows this help screen. No value required.
 ``` 
 
 Sets the amount of questions. Defaults to '10'.  
-Example: -a=15, --amount=3
+Example: `-a=15`, `--amount=3`
 
 ```sh
 -d, --difficulty
 ```
 
 Sets the questions difficulty. Possible values: 'easy', 'medium', 'hard'. If not passed, loads questions with random difficulties.  
-Example: -d=easy, --difficulty=medium
+Example: `-d=easy`, `--difficulty=medium`
 
 ```sh
 -c, --category
 ```
 
 Sets the questions category. If not passed, or category does not exist, loads questions from random categories.  
-Example: -c=sport, --category=math
+Example: `-c=sport`, `--category=math`
 
 ## Note: 
 
