@@ -1,5 +1,9 @@
 # Quiz Game for your terminal
 
+Run it in your terminal and get ready to answer some questions!
+
+The game is using the great free API available at https://opentdb.com/, enjoy.
+
 ## Usage:
 
 ```sh
